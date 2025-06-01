@@ -1,2 +1,2 @@
 # Codigos-de-los-Videso-de-Programacion
-Este repositorio alberga las soluciones de código en C++ desarrolladas a partir del análisis de una serie de videos de programación avanzada. Aquí encontrarás las implementaciones directas de los algoritmos y estructuras de datos discutidos.
+Este repositorio contiene las implementaciones de código en C++ que han sido directamente extraídas y desarrolladas a partir de los conceptos y algoritmos presentados en la serie de videos de programación avanzada disponible en: [ https://www.youtube.com/watch?v=OMcxQ3IY-qc&list=PLauivoElc3ggagradg8MfOZreCMmXMmJ- ].
