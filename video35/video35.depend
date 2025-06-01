@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748621298 source:c:\users\ad\documents\videos programacion - competitiva\video35\main.cpp
+	<iostream>
+	<string>
+	<unordered_set>
+

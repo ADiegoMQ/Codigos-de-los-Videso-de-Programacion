@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748621284 source:c:\users\ad\documents\videos programacion - competitiva\video34\main.cpp
+	<iostream>
+	<string>
+	<unordered_map>
+

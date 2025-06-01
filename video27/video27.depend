@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748619314 source:c:\users\ad\documents\videos programacion - competitiva\video27\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
